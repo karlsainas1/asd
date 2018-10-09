@@ -1,4 +1,4 @@
-#h1
+# h1
 1. git init   (paneb mingi värgi tööle)
 2. git add . 		(addib asju)
 3. git commit -m "first commit"   (commit (esimene,teine,kartul, kaalikas misiganes))
